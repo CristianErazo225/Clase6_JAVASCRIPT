@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+.Contenedor{ /*Color de fondo de la pagina*/
+    background-color: rgb(228, 228, 228);
+}
+
+#logotipo{ /*Dimension Logotipo*/
+    width: 150px;
+}
+
+.carousel-inner{ /*Borde redondo Carrusel de imagenes*/
+    border-radius: 5px;
+}
+
+#Tarjetas{  /*Propiedades de las tarjetas con imagenes*/
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.IconRedes{  /*Ancho y margenes de iconos de redes*/
+    width: 30px;
+    margin: 15px 5px;
+}
+
+.banner-video{
+    background-image: url("../imag/videoBanner.png");
+    padding: 200px 0px;
+    position: relative;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.banner-video img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    
+}
+
+.card{
+    width: 90px;
+    background-color: rgb(241, 84, 84);
+}
+
+/*-------------Estilo a parte inferior de las paginas---------------*/
+footer{
+    background-color: #222020;
+    padding: 40px 0px;
+    text-align: center;
+}
+footer .logotipo-footer{
+    width: 1550px;
+    margin-bottom: 10px;
+    
+}
+footer p{
+    color: azure;
+}
+
+/*-------------color en el acordeon de Normativa---------------*/
+.acordeon{
+    color: rgb(89, 168, 214);
+    background-color: blue;
+}
+
+/*-------------Estilo a la pestaña Ingresar---------------*/
+#ContenedorLogin{
+    position: absolute;
+    left: 70%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+}
+#Login{ 
+    border-radius: 15px;
+    background-color: rgb(217, 217, 217);
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+}
+#ContenedorBotones{
+    width: 500px;
+    align-items: center;
+}
+
+
+/*-------------Estilo a la seccion preguntas---------------*/
+.ContenedorPreguntas{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.ContenedorPreguntas2{
+    width: 900px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+}
+
+

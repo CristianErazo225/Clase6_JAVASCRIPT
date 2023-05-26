@@ -1,0 +1,54 @@
+#IP{
+    background-color: rgb(220, 241, 241);
+    
+}
+
+#RV{
+    background-color: rgb(188, 205, 213);
+}
+
+#PS{
+    background-color: rgb(195, 198, 238);
+}
+
+#CEG{
+    background-color: rgb(222, 217, 217);
+}
+
+#seccion{
+    font-size: 80;
+    color: rgb(242, 54, 54);
+    font-weight: bold;
+    align-items: center;
+}
+
+#tabla1{
+    font-size: 80;
+    color: black;
+    background-color: rgb(231, 233, 233);
+    width: 66%;
+    text-align: center;
+   
+}
+
+#tabla2{
+    font-size: 80;
+    color: black;
+    background-color: rgb(231, 233, 233);
+    width: 55%;
+}
+
+#Formulario{
+    padding: 0px 300px;
+}
+
+#boton{
+    background-color: rgb(220, 241, 241);
+    align-items: center;
+}
+
+
+
+
+
+
